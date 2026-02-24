@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="25%" src="zack.png">   
+    <img width="50%" src="zack.png">   
 </p>
 
 
