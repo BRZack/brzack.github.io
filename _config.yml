@@ -3,7 +3,7 @@ description: hi
 author: Zack Boone
 avatar: zack.png
 email: zackary.boone@uconn.edu
-theme: midnight
+theme: hamilton/skins/midnight
 
 plugins:
   - jekyll-seo-tag
@@ -30,11 +30,11 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-#twitter:
+# twitter:
 #  username: ngzhio
 #  card: summary
-#logo: logo.png
-#social:
+# logo: logo.png
+# social:
 #  name: Shangzhi Huang
 #  links:
 #    - https://twitter.com/ngzhio
