@@ -3,8 +3,8 @@ author:
   name: Zack Boone
   email: zackary.boone@uconn.edu
 
-description: >
-  did you know that this is *italic* and this is **bold**?
+description: did you know that this is *italic* and this is **bold**?
+
 
 theme: minima
 
