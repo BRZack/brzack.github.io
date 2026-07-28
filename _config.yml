@@ -1,9 +1,11 @@
 title: Zack Boone
+
 author:
   name: Zack Boone
   email: zackary.boone@uconn.edu
 
-description: did you know that this is *italic* and this is **bold**?
+description: >
+  did you know that this is *italic* and this is **bold**?
 
 url: "https://brzack.github.io"
 baseurl: ""
@@ -16,16 +18,18 @@ plugins:
 
 sass:
   quiet_deps: true
-  silence_deprecations: [import]
+  silence_deprecations:
+    - import
 
 minima:
   skin: dark
   nav_pages:
     - index.md
     - papers.md
-  show_excerpts: false
   hide_site_feed_link: true
   social_links:
     - title: Zack Boone on GitHub
       icon: github
       url: "https://github.com/BRZack"
+
+show_excerpts: false
